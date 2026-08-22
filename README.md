@@ -1,6 +1,6 @@
 # Suraj Rajan
 
-Java and distributed-systems engineer with 10 years of experience building production backend systems.
+Java and distributed-systems engineer focused on building high-performance backend systems.
 
 I work on high-performance services, simple architectures, and software that remains understandable under change. My background includes Java, Spring Boot, microservices, MySQL, Redis, Aerospike, messaging systems, and performance-sensitive application infrastructure.
 
