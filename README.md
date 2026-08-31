@@ -22,6 +22,16 @@ I am currently building [JAIPilot](https://github.com/JAIPilot/jaipilot): engine
 - [Java Auto Unit Tests](https://github.com/skrcode/java-auto-unit-tests) — an IntelliJ-based experiment in AI-assisted Java unit-test generation.
 - [Spring XML Bean to Annotation](https://github.com/skrcode/spring-xml-bean-to-annotation) — migration tooling for converting Spring XML bean definitions to annotation-based configuration.
 
+## GitHub activity
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-dark-blue&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-light&amp;hide_border=true">
+    <img alt="Suraj Rajan's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-light&amp;hide_border=true">
+  </picture>
+</a>
+
 ## Engineering approach
 
 Preserve behavior first. Measure before optimizing. Prefer fewer moving parts, explicit invariants, focused tests, and the smallest change that solves the real problem.
