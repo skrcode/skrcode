@@ -4,7 +4,7 @@ Java and distributed-systems engineer focused on building high-performance backe
 
 I work on high-performance services, simple architectures, and software that remains understandable under change. My background includes Java, Spring Boot, microservices, MySQL, Redis, Aerospike, messaging systems, and performance-sensitive application infrastructure.
 
-I am currently building [JAIPilot](https://github.com/JAIPilot/jaipilot): engineering workflows that help coding agents improve Java changes using evidence from the repository's own builds, tests, static analysis, and measurements.
+I am currently building [JAIPilot](https://github.com/JAIPilot/jaipilot): an AI-assisted Java testing specialist for generating, repairing, and verifying tests, improving coverage, and checking behavior before and after refactoring.
 
 ## Areas of focus
 
@@ -17,7 +17,7 @@ I am currently building [JAIPilot](https://github.com/JAIPilot/jaipilot): engine
 
 ## Selected work
 
-- [JAIPilot](https://github.com/JAIPilot/jaipilot) — Java engineering skills for reviewing diffs, generating meaningful tests, and simplifying code with repository-native tools.
+- [JAIPilot](https://github.com/JAIPilot/jaipilot) — AI-assisted Java test generation, repair, and verification, with coverage improvement and regression protection for refactoring.
 - [Best JSON Formatter CLI](https://github.com/skrcode/bestjsonformatter-cli) — fast, local, lossless JSON formatting and correctness checks for developers, CI, and coding agents.
 - [Java Auto Unit Tests](https://github.com/skrcode/java-auto-unit-tests) — an IntelliJ-based experiment in AI-assisted Java unit-test generation.
 - [Spring XML Bean to Annotation](https://github.com/skrcode/spring-xml-bean-to-annotation) — migration tooling for converting Spring XML bean definitions to annotation-based configuration.
