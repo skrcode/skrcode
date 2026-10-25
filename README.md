@@ -1,4 +1,4 @@
-# Java & Distributed Systems
+# Building JAIPilot
 
 Java and distributed-systems engineer focused on building high-performance backend systems.
 
