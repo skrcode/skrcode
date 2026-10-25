@@ -1,4 +1,4 @@
-# Suraj Rajan
+# Java & Distributed Systems
 
 Java and distributed-systems engineer focused on building high-performance backend systems.
 
@@ -28,7 +28,7 @@ I am currently building [JAIPilot](https://github.com/JAIPilot/jaipilot): an AI-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-dark-blue&amp;hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-light&amp;hide_border=true">
-    <img alt="Suraj Rajan's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-light&amp;hide_border=true">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=skrcode&amp;theme=github-light&amp;hide_border=true">
   </picture>
 </a>
 
